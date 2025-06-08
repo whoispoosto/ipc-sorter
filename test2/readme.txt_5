@@ -1,0 +1,14 @@
+49 server now performs the task of merging the sorted data, but this was handled by
+105     char line[256];
+84 files, it is commented with student understandings.
+132     header files in include folder. For c not C++
+29 fd_set to be reinitialized after each call nor the work of indirectly checking values
+112 
+141 [3] 
+45 server adds it to an AVL tree. When all data has been read in from a client,
+53 
+76 
+8     Beginning at Step 3, the server performs basic checks of command line
+33 because poll() would require us to manage separate array(s).
+37 number of fragment files). If it has already accepted enough clients, the server
+15 4 pointers to fragment file path names. In a loop, the program continually reads

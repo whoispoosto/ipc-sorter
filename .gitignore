@@ -1,0 +1,8 @@
+bin_client
+bin_server
+/client/build/*.o
+/server/build/*.o
+/shared/build/*.o
+.vscode/
+.idea/
+

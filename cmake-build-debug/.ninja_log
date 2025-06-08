@@ -1,0 +1,4 @@
+# ninja log v6
+1	54	1745286055486313091	CMakeFiles/Lab_3.dir/client/src/main.c.o	4f04ec86906214bb
+1	55	1745286055486723385	CMakeFiles/Lab_3.dir/server/src/filespec.c.o	8397540b202c5f4f
+2	55	1745286055487640559	CMakeFiles/Lab_3.dir/server/src/socket.c.o	41fed353e6c67030

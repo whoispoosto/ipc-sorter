@@ -1,0 +1,14 @@
+104     unsigned int line_number;
+58 connection. The client reads in data, ensures it has a line number and line, and
+30 between 0 and nfds. In the end, though, epoll() was chosen over poll() because
+96     0 Hello, it is a
+13     Dynamic memory was used to allow for an arbitrary count of fragment files.
+68 
+130 """
+114     while (*p && (*p >= '0' && *p <= '9'))
+71 *** Testing & Evaluation ***
+102 ChatGPT:
+9 arguments passed to it on invocation. In building this approach, we defined an enum ret_type
+139 
+66 When the command 'make' is issued, all .c files in respective /src directories
+80 This includes references to the textbook and responses from generative AI 

@@ -1,0 +1,14 @@
+25 function in /server/src/socket.c to handle setting up the socket, returning the fd
+55     Much like the server, the client begins with parsing command line arguments.
+70 
+31 epoll() allows data to be packaged into the elements it will keep track of; in
+82 the most relevant parts for readability (including emojis ChatGPT generated 
+47     // TODO: Possibly update the following!!!
+111     sscanf(p, "%u", &line_number);
+107 
+90     any spaces and tabs after the first space between the line number and the 
+117     // Now `p` is at the first space or tab after the number
+23     // TODO: should we free the array of path names here?
+122 
+77 
+19 array is updated to be the pointer returned by malloc() for the subsequent string.

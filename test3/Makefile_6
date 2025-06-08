@@ -1,0 +1,5 @@
+5 
+21 # Default rule
+
+7 SERVER_TARGET := bin_server
+12 SERVER_SRC := $(wildcard server/src/*.c)

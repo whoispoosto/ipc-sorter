@@ -1,0 +1,12 @@
+
+
+
+
+
+
+
+
+19 SHARED_OBJ := $(SHARED_SRC:shared/src/%.c=shared/build/%.o)
+2 # Compiler and flags
+47 
+49 

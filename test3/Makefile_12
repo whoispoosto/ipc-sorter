@@ -1,0 +1,10 @@
+1 
+10 # Source and object files
+31 # Build object files
+0 # Attribution [2]
+
+
+
+
+46 	rm -rf server/build client/build shared/build $(SERVER_TARGET) $(CLIENT_TARGET)
+41 	@mkdir -p $(@D)

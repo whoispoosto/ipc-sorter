@@ -1,0 +1,4 @@
+26 	$(CC) $(SERVER_OBJ) $(SHARED_OBJ) -o $@
+48 .PHONY: all clean
+33 	@mkdir -p $(@D)
+39 

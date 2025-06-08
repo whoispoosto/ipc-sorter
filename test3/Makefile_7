@@ -1,0 +1,4 @@
+14 
+42 	$(CC) $(CFLAGS) -c $< -o $@
+27 
+6 # Output binary

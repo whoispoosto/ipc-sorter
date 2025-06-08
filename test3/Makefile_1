@@ -1,0 +1,6 @@
+4 CFLAGS := -Wall -Wextra -g -std=gnu17 -Ishared/include
+
+28 $(CLIENT_TARGET): $(CLIENT_OBJ) $(SHARED_OBJ)
+
+11 # Get a list of source files and perform pattern substitution to get object files
+15 CLIENT_SRC := $(wildcard client/src/*.c)

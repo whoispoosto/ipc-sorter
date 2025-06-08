@@ -1,0 +1,4 @@
+13 SERVER_OBJ := $(SERVER_SRC:server/src/%.c=server/build/%.o)
+37 	@mkdir -p $(@D)
+3 CC := gcc
+16 CLIENT_OBJ := $(CLIENT_SRC:client/src/%.c=client/build/%.o)

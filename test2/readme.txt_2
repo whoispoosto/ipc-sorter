@@ -1,0 +1,14 @@
+75 that is, without issuing the 'qlogin' command to enter the Linx Lab.
+56 The arguments are used to create a socket that connects to the server's socket.
+59 inserts it into an AVL tree. The AVL tree, by nature, orders the data. Thus, when
+18 in the array, the array's size is doubled; otherwise, the next pointer in the
+32 our case, a file descriptor. Storing the fds into the epoll structs was simpler
+116 
+91     string?
+86 [1] Pointer-Walking for fprintf()
+57 Without need for I/O multiplexing, the client can sit and wait for data from its
+133 """
+14 We hold a dynamically allocated array of pointers to chars with space for
+42 the epoll instance to be tracked for I/O. When the client sends data, epoll()
+27     For I/O multiplexing, Linux's epoll interface was chosen. Originally, poll was
+136 // As seen in ./Makefile, though extended by the user to build multiple 

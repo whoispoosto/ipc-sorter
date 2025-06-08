@@ -1,0 +1,8 @@
+24 # Link object files to create executable
+35 
+
+
+
+
+17 
+36 client/build/%.o : client/src/%.c

@@ -1,0 +1,14 @@
+126 
+44 by a helper function defined in /shared/src/rw.c. For each number—line pair, the
+120     // Just copy everything from here
+131     can you make me a super basic makefile? source files in src folder, 
+97     1              wonderful day!
+1 Lab 3: Multiplexed Inter-Process Communication
+38 closes the connection, causing the client to also quit (more on this later). In
+95 
+4 Preston Meek, meek@wustl.edu
+21 The final steps of this helper function open the files associated with the file
+137 // binaries at once
+5 Chiagozie Okoye, c.i.okoye@wustl.edu
+121     strcpy(line_text, p);
+65 Provided with this repository is a Makefile located in the main working directory.

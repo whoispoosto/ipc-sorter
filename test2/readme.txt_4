@@ -1,0 +1,14 @@
+103 """
+79 The following is a list of attributions to resources used in completing this lab.
+89     With the following, how can I change the sscanf() call to maintain 
+81 such as ChatGPT. For the generative AI case, the pasted text is shortened to 
+106     char line_text[256];
+0 CSE 422S - Operating Systems Organization
+134 
+41     During the acquisition of the connection, the server also adds the clients to
+88 """
+28 our choice, poll chosen over select() because poll neither required select()'s
+52 
+43 returns and the server handles reading in data. Reads and writes are handled
+16 available lines from the filespec, keeping track of how many files it has read and
+60 all data is read in from the socket, the client writes back the sorted lines by

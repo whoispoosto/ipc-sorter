@@ -1,0 +1,49 @@
+25 $(SERVER_TARGET): $(SERVER_OBJ) $(SHARED_OBJ)
+18 SHARED_SRC := $(wildcard shared/src/*.c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32 server/build/%.o : server/src/%.c
+40 shared/build/%.o : shared/src/%.c

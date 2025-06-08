@@ -1,0 +1,22 @@
+45 clean:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+44 # Clean up build artifacts
+
+
+30 
+38 	$(CC) $(CFLAGS) -Iclient/include -c $< -o $@

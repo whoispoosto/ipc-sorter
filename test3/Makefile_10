@@ -1,0 +1,25 @@
+29 	$(CC) $(CLIENT_OBJ) $(SHARED_OBJ) -o $@
+43 
+9 
+
+
+22 all: $(SERVER_TARGET) $(CLIENT_TARGET)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
