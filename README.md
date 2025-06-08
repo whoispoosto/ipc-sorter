@@ -1,5 +1,5 @@
 ## IPC Sorter: Multiplexed Inter-Process Communication
-*Note: this project was copied from its original private repository, hence the lack of commit history.
+*Note: this project was copied from its original private repository, hence the lack of commit history.*
 
 **Students:**  
 Preston Meek, meek@wustl.edu  
